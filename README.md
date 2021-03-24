@@ -14,3 +14,6 @@ NOTE: you must use your own mapboc token for the app to work. You can get it at 
 ## Future improvements
 
 I plan to include some of my local transport lines here in Paris, France.
+
+## Licence
+MIT
